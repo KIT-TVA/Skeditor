@@ -35,7 +35,11 @@ Skeditor is a set of Eclipse-Plugins based on graphiti and EMF. **(tbd)**
 
 ## Publications
 
-**Skill-based Verification of Cyber-Physical Systems**  
+- **Skill-based Verification of Cyber-Physical Systems**  
 Alexander Knüppel, Inga Jatzkowski, Marcus Nolte, Thomas Thüm, Tobias Runge, and Ina Schaefer
 Fundamental Approaches to Software Engineering (FASE). Springer, 2020.
 [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-45234-6_10)]
+- **A Maneuver-Centric Formal Engineering Approach for Cyber-Physical Systems**  
+Alexander Kittelmann (formerly Knüppel)
+PhD Dissertation, TU Braunschweig, 2022.
+[[pdf](https://leopard.tu-braunschweig.de/receive/dbbs_mods_00070632)]
